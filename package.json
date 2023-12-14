@@ -1,0 +1,27 @@
+{
+  "name": "02_node_ndarbai",
+  "version": "1.0.0",
+  "description": "Namu darbai Cao",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarvydas-Sarunas/02_node_nDarbai.git"
+  },
+  "keywords": [
+    "express",
+    "cors"
+  ],
+  "author": "sarunas Tarvydas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tarvydas-Sarunas/02_node_nDarbai/issues"
+  },
+  "homepage": "https://github.com/Tarvydas-Sarunas/02_node_nDarbai#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
